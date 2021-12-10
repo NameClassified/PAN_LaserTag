@@ -11,7 +11,8 @@ I've designed and built a gauntlet with a suite of sensors and a simple display 
 I jest, of course - the objective of the game isn't to cause permanent eye damage or to assert your eternal glory over your enemies (mostly). But it's been a tough couple of years for everyone. We've been stuck indoors, paranoid of human contact and compulsively washing our groceries and mail like weirdos. I designed this project to help people blow off some steam and get some much-needed stress relief in a time where that is all too rare. The choice of game wasn't random either - I chose laser tag in particular because it was the single most juvenile and childish game I could think of involving technology. The real purpose of this game is to allow the players to run around like children while shooting lasers at each other, in the hopes that I can provide some much-needed escapism and fun in this dark time. If you're reading this after COVID has been dealt with, then this probably makes a lot less sense. Enjoy the lasers, I guess.
 
 
-## Block Diagram (Pending)
+## Block Diagram
+![IMG_2179](https://user-images.githubusercontent.com/13169435/145651159-483db003-28f4-4e8d-9af0-226ab599d411.png)
 
 ## Components
 Here's a list of the components I used. Everything can be ordered off of Adafruit as of December 2021.
