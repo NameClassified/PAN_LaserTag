@@ -71,10 +71,12 @@ void loop() {
   //TODO: Figure out why I2C slows down execution so much
 
   shot_timer += 1;
-  if ((shot_timer % 50) == 0) {
+  if ((shot_timer % 200) == 0) {
     shots += 1;
     
-    
+    if (shot_timer == 200) {
+      shot_timer = 1;
+    }
   }
   int shots_temp = shots;
 
