@@ -28,7 +28,7 @@ Here's a list of the components I used. Everything can be ordered off of Adafrui
 * Velcro strips (for arm straps)
 
 
-## Photos (Pending)
+## Photos
 ![IMG_2175](https://user-images.githubusercontent.com/13169435/145650438-7cb39916-6bf8-42c2-8634-b7fcb80dbade.png)
 ![IMG_2176](https://user-images.githubusercontent.com/13169435/145650457-c7d7a7d5-ed05-4544-957b-71fefd19259f.png)
 ![IMG_2177](https://user-images.githubusercontent.com/13169435/145650463-1bd263f7-2e01-48a1-9ec2-00cb9e63e372.png)
